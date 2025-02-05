@@ -1,3 +1,7 @@
+# a neat little script to generate a project structure for a web scraper
+# you can use this to generate a project, just change the names etc.abs
+
+
 import os
 
 # Define the structure
